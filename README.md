@@ -14,6 +14,7 @@
   <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Rishik131/images/70de40eb7e7201912e251562b1cfc12c8f6dd450/ts.svg" alt="typescript" width="40" height="40"/> </a>
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
    <a href="https://www.r-project.org/about.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Rishik131/images/c31bcdc5e4a843e2ef8d9bc964552d2de3985f76/r-programming-language.svg" alt="R" width="40" height="40"/> </a>
+ <a href="https://soliditylang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Rishik131/images/70de40eb7e7201912e251562b1cfc12c8f6dd450/solidity.svg" alt="solidity" width="40" height="40"/> </a>
  
 <h3 align="left">Frontend Development:</h3>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
@@ -23,6 +24,7 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Rishik131/images/018607b0b979f2f8574a59fc186681e62399e2a2/download.svg" alt="canvasjs" width="40" height="40"/> </a>
+<a href="https://threejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Rishik131/images/70de40eb7e7201912e251562b1cfc12c8f6dd450/Three.js_Icon.svg" alt="three.js" width="40" height="40"/> </a>
 
 <h3 align="left">Backend Development:</h3>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Rishik131/images/e8e2408b0a945e48361580d7f6b950ed891dad2c/django.svg" alt="django" width="30" height="30"/> </a>
@@ -47,6 +49,12 @@
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
 
+<h3 align="left">Blockchain Technology:</h3>
+ <a href="https://web3js.readthedocs.io/en/v1.10.0/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Rishik131/images/70de40eb7e7201912e251562b1cfc12c8f6dd450/web3js.svg" alt="Web3" width="40" height="40"/> </a>
+ <a href="https://trufflesuite.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Rishik131/images/70de40eb7e7201912e251562b1cfc12c8f6dd450/truffle-seeklogo.com.svg" alt="Truffle" width="40" height="40"/> </a>
+  <a href="https://trufflesuite.com/docs/ganache/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Rishik131/images/70de40eb7e7201912e251562b1cfc12c8f6dd450/ganache-seeklogo.com.svg" alt="Ganache" width="40" height="40"/> </a>
+  <a href="https://hardhat.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Rishik131/images/70de40eb7e7201912e251562b1cfc12c8f6dd450/hardhat-seeklogo.com.svg" alt="HardHat" width="40" height="40"/> </a>
+ 
 <h3 align="left">DevOps:</h3>
  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
  
@@ -57,5 +65,7 @@
    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
  
 <h3 align="left">Other Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  </p>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  
+<a href="https://www.ros.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Rishik131/images/70de40eb7e7201912e251562b1cfc12c8f6dd450/Ros_logo.svg" alt="ROS" width="40" height="40"/> </a>
+</p>
 </p>
